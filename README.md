@@ -58,9 +58,9 @@ java Hamming
 - **Bellekten Sil:** Seçilen kodu bellekteki listeden kaldırın.
 
 ## Demo Videosu
-[Demo Videosunu İzle](https://youtu.be/UJ86U3CJGUg?si=xuHMohJ_QUXqYSnz)
+
 **Demo Videosu:**  
-[YouTube Linki Eklenecek]
+[Demo Videosunu İzle](https://youtu.be/UJ86U3CJGUg?si=xuHMohJ_QUXqYSnz)
 
 ---
 
